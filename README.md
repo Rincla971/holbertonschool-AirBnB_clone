@@ -1,5 +1,7 @@
 # AirBnB clone - The console
 
+<img width="560" alt="rbnb" src="https://github.com/Rincla971/holbertonschool-AirBnB_clone/assets/146451776/b8708aca-bed4-4c29-b4f3-0b5280b97b23">
+
 ## INTRODUCTION
 
 This is a command-line application designed to manage AirBnB objects, part of a larger project to build an AirBnB clone. The project focuses on creating a command interpreter for various functionalities like creating, retrieving, updating, and destroying objects. The application allows users to interact with objects of various classes, including User, State, City, and Place, and stores the data in a file-based storage system.
