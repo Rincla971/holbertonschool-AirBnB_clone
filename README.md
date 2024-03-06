@@ -85,6 +85,6 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 ## Author
 [Fatoumata Bah](https://www.github.com/fatima9821)
-[Reginord Rinxla](https://www.github.com/Rincla971)
+[Reginord Rincla](https://www.github.com/Rincla971)
 
 

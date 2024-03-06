@@ -52,4 +52,4 @@ class FileStorage():
         FileStorage.__objects = {
             k: globals()[k.split('.')[0]](**v)
             for k, v in data.items()
-        }
+        }   
